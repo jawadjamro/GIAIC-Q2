@@ -1,0 +1,10 @@
+.about-main {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 70vh; /* Full viewport height to center vertically */
+}
+
+.about-inner {
+    text-align: center;
+}
